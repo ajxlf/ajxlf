@@ -2,7 +2,7 @@
 
 BSc Computer Science student at the University of Westminster, graduating in 2027, preparing for graduate software engineering roles.
 
-I build practical software across web, mobile and backend systems. My current interests include application engineering, software design, and aerospace software.
+I build practical software across web, mobile and backend systems. My current interests include application engineering, software design, and aerospace software. I’m also keen to use AI-assisted development where it genuinely helps, while validating its output and taking responsibility for code quality and engineering decisions.
 
 ## Featured projects
 
