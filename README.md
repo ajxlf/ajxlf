@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Andre Lawson-Ferreira
 
-<!--
-**ajxlf/ajxlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Computer Science student at the University of Westminster, graduating in 2027, preparing for graduate software engineering roles.
 
-Here are some ideas to get you started:
+I build practical software across web, mobile and backend systems. My current interests include application engineering, software design, and aerospace software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- **[Cadence](https://github.com/ajxlf/cadence)** — a personal planning PWA with JavaScript, Supabase authentication, PostgreSQL-backed storage, realtime sync and local persistence. [Live demo](https://ajxlf.github.io/cadence/)
+- **[CyberDrive](https://github.com/ajxlf/CyberDrive)** — an iOS/CarPlay navigation concept using SwiftUI, MapKit and MapLibre, with a GitHub Actions simulator workflow.
+- **[Cross-Math](https://github.com/ajxlf/Cross-Math)** — an Android arithmetic puzzle game using Kotlin and Jetpack Compose, with equation generation and validation.
+- **[Smart Campus API](https://github.com/ajxlf/smart-campus-jaxrs-api)** — a Java / JAX-RS REST API for room, sensor and sensor-reading resources.
+
+## Technologies
+
+**Languages:** Java · JavaScript · TypeScript · Kotlin · Python · Swift · SQL  
+**Frameworks and platforms:** React · Django · JAX-RS · Supabase · PostgreSQL · SQLite · Jetpack Compose · SwiftUI · MapKit · MapLibre  
+**Tools:** Git · GitHub · GitHub Actions · Android Studio
+
+## Links
+
+- [Portfolio](https://ajxlf.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/andrelawferreira)
+- [CV (PDF)](https://ajxlf.github.io/portfolio/Andre_Ferreira_CV.pdf)
+
